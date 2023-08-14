@@ -1,0 +1,58 @@
+body{
+    background-color: #e6e6e6;
+}
+
+img{
+    padding: 10px;
+    width: 100px;
+}
+
+.hv{
+    margin: 20px;
+    background-color: white;
+}
+.sup{
+    height: 100px;
+}
+.datosp{
+    background-color: white;
+}
+h1, h2{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    padding: 5px;
+}
+h2{
+    
+    font-size: 15px;
+    padding: 3px;
+}
+ul{
+    font-size: 12px;
+}
+.identado{
+    margin-left: 62px;
+}
+
+.vacio{
+    height: 50px;
+}
+
+#foot{
+    color: white;
+    background-color: #005677;
+    text-align: center;
+   
+}
+   
+.inf{
+    display: inline-block;
+}
+
+a:link, :visited{
+    color: #f8f8f8;
+}
